@@ -1,5 +1,5 @@
 # KDT_Project3-PIP
-### [Privacy Is Power 개인정보 보호 방송 서비스]
+### Privacy Is Power 개인정보 보호 방송 서비스
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/c9eb62dc-dfc3-41ae-b862-11da70403d34">
 <hr width="800">
