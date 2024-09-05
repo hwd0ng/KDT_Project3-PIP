@@ -1,0 +1,5 @@
+train: 1_faceData/images/train
+val: 1_faceData/images/val
+
+nc: 0
+names: ['face']

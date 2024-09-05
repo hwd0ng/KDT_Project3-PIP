@@ -1,0 +1,6 @@
+*.pptx
+model/car/3_car_model_적용예시/video_car.mp4
+model/face/3_face_model_적용예시/video_face.mp4
+model/car/1_carData
+model/face/1_faceData
+model/model_onnx_tflite변환

@@ -1,0 +1,5 @@
+train: 1_carData/images/train
+val: 1_carData/images/val
+
+nc: 0
+names: ['license_plate']
