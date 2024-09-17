@@ -1,0 +1,14 @@
+fastapi
+websockets
+typing-extensions
+uvicorn
+aiofiles
+python-multipart
+pydantic
+pymongo
+passlib
+python-jose[cryptography]
+opencv-python
+numpy
+ultralytics
+pillow
