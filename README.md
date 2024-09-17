@@ -27,7 +27,7 @@
 ### 사용 방법
 ```bash
 # 프로젝트 폴더 생성
-git clone https://github.com/hwd0ng/KDT_Project2-EPL_Chatbot.git
+git clone https://github.com/hwd0ng/KDT_Project3-PIP.git
 
 # 라이브러리 설치
 pip install -r requirements.txt
