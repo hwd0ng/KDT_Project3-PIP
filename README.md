@@ -66,17 +66,17 @@ python main.py
     - [YOLOv8](https://github.com/ultralytics/ultralytics)
       - YOLO 이전 버전들의 개선된 형태로 객체 탐지, 인스턴스 분할, 이미지 분류 등의 컴퓨터 비전 작업을 위한 최신 딥러닝 모델
       - 빠른 추론 속도와 높은 정확도 제공, 특히 작은 객체 탐지에서 성능이 개선됨 (얼굴 탐지에 적합하다고 판단)
+
         
- <details>
-    <summary>모델 학습 및 적용코드</summary>
-      <img width="1154" alt="image" src="https://github.com/user-attachments/assets/f1c31ce8-46f5-4968-83f6-29eb77da27f1">
-  </details>
+   <details>
+     <summary>모델 학습 및 적용코드</summary>
+       <img width="1154" alt="image" src="https://github.com/user-attachments/assets/f1c31ce8-46f5-4968-83f6-29eb77da27f1">
+   </details>
 <hr width="800">
 
 ### 맡은 역할
 - 영상 또는 이미지에서 얼굴 객체를 탐지할 수 있도록 모델(Yolov8)을 선정하고 캐글에서 얻은 데이터셋을 해당 모델에 학습시켰습니다.
 - 학습시킨 모델을 얼굴 객체가 담긴 무작위 사진, 영상에 적용 및 모자이크 처리 테스트를 성공적으로 진행하였습니다.
-
     <details>
       <summary>모델 적용 결과</summary>
         <img width="1032" alt="image" src="https://github.com/user-attachments/assets/2bf837f0-ad30-4a0d-bd46-81516c59ff1b">
